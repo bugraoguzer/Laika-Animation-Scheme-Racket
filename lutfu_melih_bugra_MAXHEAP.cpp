@@ -4,7 +4,7 @@ using namespace std;
 
 #define MaxData (32767)
 
-class MaxHeap{
+class MaxHeap{  //burası ne olacak?
 private:
     int Capacity;
     int Size;
