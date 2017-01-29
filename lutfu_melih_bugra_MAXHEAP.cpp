@@ -148,7 +148,45 @@ a.printHeap();
 
 a.heapSort();
 
-int isim;
-std::cin >> isim;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+int lutfu;
+std::cin >> lutfu;
 
 }
